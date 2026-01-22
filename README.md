@@ -1,5 +1,5 @@
-# 💫 About Me
-Practice — Physics undergrad & ClickCrystals collaborator.  
+Practice  
+Physics undergrad & ClickCrystals collaborator  
 I build AI-powered apps and bots end-to-end, and make systems fast & reliable.
 
 # 💻 Tech Stack
