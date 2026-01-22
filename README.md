@@ -1,10 +1,6 @@
 Practice — Physics undergrad & ClickCrystals collaborator.
 
-I build:
-• Web apps
-• Mobile/Android apps
-• Automation bots
-• AI-integrated tools
+I build web apps, mobile/Android apps, automation bots, and AI-integrated tools.
 
 End-to-end. Fast. Reliable. Minimal supervision.
 
